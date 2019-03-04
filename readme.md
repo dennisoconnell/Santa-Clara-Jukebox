@@ -1,5 +1,6 @@
-## Devpost
+## Devpost and note on understanding the files
 https://devpost.com/software/santa-clara-jukebox
+Nearly all changes made by us can be found in the wp-content folder.
 
 ## Inspiration
 The idea for the SCU Jukebox came from our frustration with the music being played in Benson Dining Hall. We were tired of hearing the same five Ariana Grande songs on repeat every morning, so we thought a jukebox would be a great solution! With a jukebox we could control the music being played in Benson and in theory any associated public location on SCU campus. Then we realized a jukebox would be perfect for promoting local artists at SCU, too, because we could use it as a platform to get their music out to the community. 
