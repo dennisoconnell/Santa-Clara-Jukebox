@@ -1,6 +1,6 @@
 ## Devpost and note on understanding the files
 https://devpost.com/software/santa-clara-jukebox
-The web site was built on a Wordpress template launched from a digital ocean droplet. We implimented github functionality at the end of the process because we didn't understand how to impliment it at the start of the process. Since it was implimented late nearly all contributions made, apear as the initial commit. The main contributions that are seperate from the template build can be found in the wp-content folder.
+The web site was built on a Wordpress template launched from a digital ocean droplet. We implimented github functionality at the end of the process because we didn't understand how to impliment it at the start of the process. Since it posted to github near the end of development, nearly all contributions made, apear as the initial commit. The main contributions that are seperate from the template build can be found in the wp-content folder.
 
 ## Inspiration
 The idea for the SCU Jukebox came from our frustration with the music being played in Benson Dining Hall. We were tired of hearing the same five Ariana Grande songs on repeat every morning, so we thought a jukebox would be a great solution! With a jukebox we could control the music being played in Benson and in theory any associated public location on SCU campus. Then we realized a jukebox would be perfect for promoting local artists at SCU, too, because we could use it as a platform to get their music out to the community. 
